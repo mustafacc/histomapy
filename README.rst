@@ -18,9 +18,7 @@ histomapy
      :target: https://pyup.io/repos/github/mustafacc/histomapy/
      :alt: Updates
 
-
-![Alt text](./logo.svg)
-<img src="./logo.svg">
+.. image:: logo.svg
 
 History timelines and maps data visualization and analysis package for Python 3.
 
