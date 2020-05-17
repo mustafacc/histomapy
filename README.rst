@@ -19,6 +19,8 @@ histomapy
      :alt: Updates
 
 
+![Alt text](./logo.svg)
+<img src="./logo.svg">
 
 History timelines and maps data visualization and analysis package for Python 3.
 
