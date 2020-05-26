@@ -15,10 +15,15 @@ histomapy
 
 
 .. image:: https://pyup.io/repos/github/mustafacc/histomapy/shield.svg
-     :target: https://pyup.io/repos/github/mustafacc/histomapy/
-     :alt: Updates
+        :target: https://pyup.io/repos/github/mustafacc/histomapy/
+        :alt: Updates
 
-.. image:: logo.svg
+.. image:: logo.svg 
+        :width: 400px
+        :alt: Logo
+        :align: center
+        
+
 
 History timelines and maps data visualization and analysis package for Python 3.
 
